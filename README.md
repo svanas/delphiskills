@@ -1,4 +1,4 @@
-### Prompt per session
+## Prompt per session
 
 `Read https://github.com/svanas/delphiskills/blob/main/SKILL.md and follow it before reviewing, writing, refactoring or compiling Delphi code.`
 
@@ -25,7 +25,7 @@ Start with [SKILL.md](SKILL.md). See [SOURCES.md](SOURCES.md) for the book editi
 
 The material is original engineering guidance synthesized from the four supplied books and selected primary documentation. Book PDFs, extracted text, and book example projects are intentionally absent. Examples included here are newly written and are labeled with their validation status.
 
-### Sources
+## Sources
 
 - *Object Pascal Handbook*, Delphi 11 edition (2021)
 - *Expert Delphi*, Marco Cantù and Paweł Głowacki (2024)
