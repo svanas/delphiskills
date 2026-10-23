@@ -1,6 +1,6 @@
 ### Prompt per session
 
-`Read https://raw.githubusercontent.com/svanas/delphiskills/refs/heads/main/SKILL.md and follow it before reviewing, writing, refactoring or compiling Delphi code.`
+`Read https://github.com/svanas/delphiskills/blob/main/SKILL.md and follow it before reviewing, writing, refactoring or compiling Delphi code.`
 
 Works in Claude Code, OpenAI Codex, or any other agent.
 
@@ -21,7 +21,7 @@ Use `/delphi` in Claude Code or `$delphi` in Codex where native skill invocation
 
 ## Contents
 
-Start with [skill.md](skill.md). The [catalog](catalog.json) enumerates every native skill. See [SOURCES.md](SOURCES.md) for the book editions, page conventions, coverage, and corrections.
+Start with [SKILL.md](SKILL.md). See [SOURCES.md](SOURCES.md) for the book editions, page conventions, coverage, and corrections.
 
 The material is original engineering guidance synthesized from the four supplied books and selected primary documentation. Book PDFs, extracted text, and book example projects are intentionally absent. Examples included here are newly written and are labeled with their validation status.
 
